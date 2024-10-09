@@ -1,7 +1,8 @@
 Body { 
     color:black;
     background: #9370d8;
-    margin: 0px
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
 }
 
 header {
@@ -21,4 +22,15 @@ section {
 
 .chamada-texto {
     margin-right: 149px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+p{
+ font-size: 20px;
+}
+img {
+    height: 200px;
 }
